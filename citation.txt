@@ -1,0 +1,7 @@
+@inproceedings{REPO375,
+    author = "Qian, Feng and Han, Bo and Xiao, Qingyang and Gopalakrishnan, Vijay",
+    booktitle = "Proceedings of the 24th Annual International Conference on Mobile Computing and Networking",
+    pages = "99--114",
+    title = "{Flare: Practical Viewport-Adaptive 360-Degree Video Streaming for Mobile Devices}",
+    year = "2018"
+}
