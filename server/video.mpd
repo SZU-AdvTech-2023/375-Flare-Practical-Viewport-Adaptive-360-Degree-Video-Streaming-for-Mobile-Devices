@@ -1,0 +1,83 @@
+{
+	"videoName": ["video0", "video1", "video2", "video3", "video4"],
+	"video0": {
+		"chunkLength": 1,
+		"chunkNums": 31,
+		"tilingSchemes": ["2x2", "4x2", "4x4", "8x4"],
+		"resolutions": ["2k", "1080p", "720p"],
+		"videoSize": {
+			"2k": "4096x2048",
+			"1080p": "2160x1080",
+			"720p": "1440x720"
+		},
+		"bitRates": {
+			"2k": "3000k",
+			"1080p": "1500k",
+			"720p": "600k"
+		}
+	},
+	"video1": {
+		"chunkLength": 1,
+		"chunkNums": 31,
+		"tilingSchemes": ["2x2", "4x2", "4x4", "8x4"],
+		"resolutions": ["2k", "1080p", "720p"],
+		"videoSize": {
+			"2k": "4096x2048",
+			"1080p": "2160x1080",
+			"720p": "1440x720"
+		},
+		"bitRates": {
+			"2k": "3000k",
+			"1080p": "1500k",
+			"720p": "600k"
+		}
+	},
+	"video2": {
+		"chunkLength": 1,
+		"chunkNums": 31,
+		"tilingSchemes": ["2x2", "4x2", "4x4", "8x4"],
+		"resolutions": ["2k", "1080p", "720p"],
+		"videoSize": {
+			"2k": "4096x2048",
+			"1080p": "2160x1080",
+			"720p": "1440x720"
+		},
+		"bitRates": {
+			"2k": "3000k",
+			"1080p": "1500k",
+			"720p": "600k"
+		}
+	},
+	"video3": {
+		"chunkLength": 1,
+		"chunkNums": 31,
+		"tilingSchemes": ["2x2", "4x2", "4x4", "8x4"],
+		"resolutions": ["2k", "1080p", "720p"],
+		"videoSize": {
+			"2k": "4096x2048",
+			"1080p": "2160x1080",
+			"720p": "1440x720"
+		},
+		"bitRates": {
+			"2k": "3000k",
+			"1080p": "1500k",
+			"720p": "600k"
+		}
+	},
+	"video4": {
+		"chunkLength": 1,
+		"chunkNums": 31,
+		"tilingSchemes": ["2x2", "4x2", "4x4", "8x4"],
+		"resolutions": ["2k", "1080p", "720p"],
+		"videoSize": {
+			"2k": "4096x2048",
+			"1080p": "2160x1080",
+			"720p": "1440x720"
+		},
+		"bitRates": {
+			"2k": "3000k",
+			"1080p": "1500k",
+			"720p": "600k"
+		}
+	}
+}

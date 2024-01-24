@@ -1,0 +1,8 @@
+视频文件太大，无法上传git，请自行下载，记得更改srcVideoResolution，建议分辨率的宽和高为10的整数倍(可用ffmpeg调整源视频的分辨率)
+###
+(1) Download videos from https://vimeo.com/215985064
+(2) Reshape video size using ffmpeg: ffmpeg -i ${input}.mp4 -vf "scale=4080:2040" video${index}.mp4
+(3) Auto-run the server:
+        pip install flask, gunicorn
+        bash run.sh
+        gunicorn -w 8 -b ${IP}:${PORT} server:app --log-file=- --access-logfile=- --error-logfile=-
